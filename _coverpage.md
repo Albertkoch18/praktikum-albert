@@ -1,4 +1,5 @@
-# Alberts Knowledgebase
+# CodeCombat
+by Albert
 
 > Hello World Lorem Ipsum Dolot Sit Amet.
 
